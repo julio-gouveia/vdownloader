@@ -14,6 +14,14 @@
 + 700 MB or 1GB of Hard Drive (Depend in video size)
 + Internet Connection
 
+## Install
+```
+git clone Null
+cd vdownloader
+$ pip install -r requirements.txt
+$ python3 app.py
+```
+
 # License
 
 1. This software is provided as is under the MIT Open Source License. See [LICENSE.md](/LICENSE.md) for details.
