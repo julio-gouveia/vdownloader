@@ -16,4 +16,4 @@
 
 # License
 
-1. This software is provided as is under the MIT Open Source License. See [LICENSE.md](/LICENSE.md)
+1. This software is provided as is under the MIT Open Source License. See [LICENSE.md](/LICENSE.md) for details.
