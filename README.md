@@ -16,7 +16,7 @@
 
 ## Install
 ```
-git clone Null
+git clone https://github.com/julio-gouveia/vdownloader
 cd vdownloader
 $ pip install -r requirements.txt
 $ python3 app.py
