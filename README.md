@@ -1,6 +1,7 @@
 #  VDownloader
 
 **VDownloader** is a lite-weight application that pulls video from youtube
+![A preview of VDownloader, tested in linux. In app there's link input, directory input, two extension button to finish and a progress bar.](/preview/preview_linux.png)
 
 ## Features
 
