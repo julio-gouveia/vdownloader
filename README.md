@@ -7,7 +7,7 @@
 
 + Easy to use interface inspired by PyQt5
 + Two different extension
-+ Weights 3.8 kB, can easily fit in floppy disk
++ vdownloader.py Weights 3.8 kB, can easily fit in floppy disk
 + And it's free!
 
 ## Minimum system requirements
